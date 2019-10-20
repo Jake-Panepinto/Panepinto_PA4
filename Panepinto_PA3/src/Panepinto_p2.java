@@ -1,9 +1,9 @@
-public class SavingsAccount {
+public class Panepinto_p2 {
     private static double annualInterestRate;
     private double savingsBalance;
 
     // Constructor.
-    SavingsAccount(double balance) {
+    Panepinto_p2(double balance) {
         savingsBalance = balance;
     }
 

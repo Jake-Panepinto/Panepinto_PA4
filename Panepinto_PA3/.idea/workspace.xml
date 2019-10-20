@@ -8,6 +8,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -50,18 +53,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SavingsAccountTest">
-    <configuration name="AutomatedMathLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutomatedMathLearning" />
+  <component name="RunManager">
+    <configuration name="Panepinto_p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Panepinto_p1" />
       <module name="Panepinto_PA3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SavingsAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Panepinto_p2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Panepinto_PA3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SavingsAccountTest" />
+      <option name="MAIN_CLASS_NAME" value="Panepinto_p2Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SavingsAccountTest" />
-        <item itemvalue="Application.AutomatedMathLearning" />
+        <item itemvalue="Application.Panepinto_p1" />
+        <item itemvalue="JUnit.Panepinto_p2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -86,5 +89,8 @@
       <updated>1571515236765</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Panepinto_PA3$Panepinto_p2Test.ic" NAME="Panepinto_p2Test Coverage Results" MODIFIED="1571542234061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

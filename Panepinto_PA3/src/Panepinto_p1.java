@@ -1,7 +1,7 @@
 import java.security.SecureRandom;
 import java.util.Scanner;
 
-public class AutomatedMathLearning {
+public class Panepinto_p1 {
 
     // This method generates and asks the question and also
     // returns the answer to be used later.
